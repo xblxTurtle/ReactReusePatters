@@ -1,0 +1,24 @@
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+.DS_Store
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+#build / generate output
+dist
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+### Node Patch ###
+# Serverless Webpack directories
+.webpack/
