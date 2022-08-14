@@ -1,5 +1,4 @@
 import React from 'react';
-import withTimeout from '../withTimeout/withTimeout.jsx';
 
 const Dialog = (props) => {
     return (
@@ -34,4 +33,4 @@ const Dialog = (props) => {
     );
 };
 
-export default withTimeout(Dialog);
+export default Dialog;
