@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node ./dist/server/index.js",
-    "build-client": "rm -Rf ./dist/ && webpack"
+    "build": "rm -Rf ./dist/ && webpack"
   },
   "author": "",
   "license": "ISC",

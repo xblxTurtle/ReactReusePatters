@@ -27,9 +27,9 @@ export default () => {
                 </ul>
             </nav>
             <Routes>
-                <Route path="/about" element={<About />}/>
-                <Route path="/users" element={<Users />}/>
-                <Route path="/" element={<Home />}/>
+                <Route path="/about" element={<About/>}/>
+                <Route path="/users" element={<Users/>}/>
+                <Route path="/" element={<Home/>}/>
             </Routes>
         </div>
   </Router>
