@@ -1,7 +1,7 @@
 import React from 'react';
-import Home from './components/Home/Home.jsx';
-import About from './components/About/About.jsx';
-import Users from './components/Users/Users.jsx';
+import Home from './components/pages/Home/Home.jsx';
+import About from './components/pages/About/About.jsx';
+import Users from './components/pages/Users/Users.jsx';
 import {
     BrowserRouter as Router,
     Routes,
